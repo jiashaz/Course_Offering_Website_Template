@@ -73,7 +73,7 @@ it improves your the coding skills.It Helps in deep understanding of bootstrap c
 
 <!-- ROADMAP -->
 ## Roadmap
-See the [open issues](https://github.com/javeriashahzadi/pacman-game-in-cpp--Fast-Nuces/issues) for a list of proposed features (and known issues).
+See the [open issues] for a list of proposed features (and known issues).
 
 <!-- CONTRIBUTING -->
 ## Contributing
