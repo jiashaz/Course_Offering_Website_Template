@@ -42,7 +42,7 @@
        
 </p>
 
-![Code](https://github.com/javeriashahzadi/pacman-game-in-cpp--Fast-Nuces/blob/master/media1/code.png)
+![Code](https://github.com/Jawaria9/course_offering_website_template/blob/main/screenshot.pdf)
 
 
 
