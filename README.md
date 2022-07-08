@@ -36,7 +36,7 @@
 ## Code
 
 <p align="center">
-  <img width="720" height="480" src="https://github.com/Jawaria9/course_offering_website_template/blob/main/Spotlight_courseoffering_website_front_end_with_bootstsrap/screencapture-127-0-0-1-5501-index-html-2022-07-03-04_43_13.gif">
+  <img width="720" height="1000" src="https://github.com/Jawaria9/course_offering_website_template/blob/main/screenshot.pdf">
 </p>
 
        
