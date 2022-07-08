@@ -36,7 +36,7 @@
 ## Screen shot of Website
 
 <p align="center">
-  <img width="900" height="1000" src="https://github.com/Jawaria9/course_offering_website_template/blob/main/screenshot.pdf">
+  <img width="900" height="1000" src="https://github.com/Jawaria9/course_offering_website_template/blob/main/course_offering_website_vedio.mp4">
 </p>
 
        
