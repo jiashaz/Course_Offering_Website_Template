@@ -1,0 +1,162 @@
+/* @media (min-width: 768px){
+.news-input{
+    width:50%
+    
+}
+} */
+
+.navbar-font-size{
+    font-size:x-large
+
+}
+.navbar-custom {
+    background-color: #6514e7;
+   
+}
+
+.btn-custom{
+   
+   
+        background-color:#691ae7;
+        color: rgb(245, 241, 241);
+        border: 2px solid  white; /* Green */
+      
+    
+
+}
+.btn-custom:hover{
+   
+    background-color:#6514e7; /* Green */
+    color: rgb(196, 191, 191);
+}
+/* body::before{
+    display:block;
+    content:"" ;
+    height:30px;
+} */
+
+/* .box{
+    width:100%;
+    height: 600px;
+    background-color:#6514e7;
+   
+
+}
+.slant1{
+    width:100%;
+    height: 800px;
+    background-color:#6514e7;
+    transform: skewY(-5deg);
+    z-index:-3;
+    transform-origin: top left;
+    margin-left: 0px;
+    top:0;
+    left:0;
+} */
+
+.custom-footer{
+    height:200px;
+    background-color: #20034e;
+}
+
+.card-font{
+    color: #20034e
+
+}
+
+
+
+.custom-section{
+    height:400px;
+    background-color: #440aa1;
+
+
+}
+
+.custom-section1{
+    height:600px;
+    background-color: #f2eff7;
+
+
+}
+.custom-heading{
+    color:#5B5469
+}
+.button1 {
+    background-color: white;
+    color: #691ae7;
+    border: 3px solid #691ae7; /* Green */
+    width: 500px
+  }
+
+
+
+input[type=text], select {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+  }
+
+  .card-img-top1 {
+    width: 100%;
+    height: 30vw;
+    object-fit: cover;
+}
+
+
+.input-box-slanted{
+    background-color: #3a0c83;
+    height:900px;
+    transform: skewY(-2deg);
+    border:0.5rem solid #dfcefd;
+    margin-top: 90px;
+    border-radius: 25px
+
+
+
+}
+
+
+.input-custom {
+   
+    background-color: #3a0c83;
+    height:700px;
+    position:relative; 
+    top:15px;
+    
+    transform: skewY(4deg);
+
+   
+
+
+}
+
+.input-box-slanted2{
+    background-color: #6514e7;
+    height:600px;
+    transform: skewY(-2deg);
+    
+}
+.input-custom2{
+    
+    
+    background-color: #6514e7;
+    height:500px;
+ 
+
+
+}
+
+
+
+
+
+
+
+  
+
+
