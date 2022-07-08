@@ -33,11 +33,6 @@
 
 
 
-## Website Demo
-
-<p align="center">
-  <img width="750" height="600" src="https://github.com/Jawaria9/course_offering_website_template/blob/main/course_offering_website_vedio.mp4">
-</p>
 
        
 
@@ -67,6 +62,13 @@ it improves your the coding skills.It Helps in deep understanding of bootstrap c
 1. index.html file
 2. jpeg files
 3. png files
+
+
+## Website Demo
+
+<p align="center">
+  <img width="750" height="600" src="https://github.com/Jawaria9/course_offering_website_template/blob/main/course_offering_website_vedio.mp4">
+</p>
 
 
 <!-- ROADMAP -->
