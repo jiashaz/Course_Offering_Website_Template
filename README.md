@@ -67,7 +67,7 @@ it improves your the coding skills.It Helps in deep understanding of bootstrap c
 ## Website Demo
 
 <p align="center">
-  <img width="750" height="600" src="https://github.com/Jawaria9/course_offering_website_template/blob/main/course_offering_website_vedio.mp4">
+  <img width="750" height="600" src="https://github.com/Jawaria9/course_offering_website_template/blob/main/course_offering_website_vedio.gif">
 </p>
 
 
