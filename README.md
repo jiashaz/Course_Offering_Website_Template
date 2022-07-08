@@ -8,7 +8,7 @@
 </p>
 
        
-</p>)
+</p>
 
 
 <!-- TABLE OF CONTENTS -->
