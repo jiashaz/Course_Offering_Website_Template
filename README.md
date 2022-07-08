@@ -1,6 +1,6 @@
 
 
-# code
+## code
 
 
 <p align="center">
@@ -46,7 +46,7 @@
 
 
 
-### Built With
+## Built With
  
    Bootstrap 5
    
@@ -61,7 +61,7 @@
 
 it improves your the coding skills.It Helps in deep understanding of bootstrap classes and styling with css.
 
-# Working 
+## Working 
 
   Open with live server in vscode
 
