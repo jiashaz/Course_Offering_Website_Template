@@ -36,13 +36,12 @@
 ## Code
 
 <p align="center">
-  <img width="720" height="1000" src="https://github.com/Jawaria9/course_offering_website_template/blob/main/screenshot.pdf">
+  <img width="900" height="1000" src="https://github.com/Jawaria9/course_offering_website_template/blob/main/screenshot.pdf">
 </p>
 
        
-</p>
 
-![Code](https://github.com/Jawaria9/course_offering_website_template/blob/main/screenshot.pdf)
+
 
 
 
