@@ -1,5 +1,5 @@
 
-## Course_Offering_Website_Template
+## Course Offering Website Template
 
 
 
@@ -49,9 +49,7 @@
 ## Built With
  
    Bootstrap 5
-   
    Html 5
-   
    Css
 
 
